@@ -1,0 +1,6 @@
+E:\SoftUni\C# OOP Advanced\Iterators and Comparators - Exercise\Problem 4. Froggy\bin\Debug\Problem_4.Froggy.exe.config
+E:\SoftUni\C# OOP Advanced\Iterators and Comparators - Exercise\Problem 4. Froggy\bin\Debug\Problem_4.Froggy.exe
+E:\SoftUni\C# OOP Advanced\Iterators and Comparators - Exercise\Problem 4. Froggy\bin\Debug\Problem_4.Froggy.pdb
+E:\SoftUni\C# OOP Advanced\Iterators and Comparators - Exercise\Problem 4. Froggy\obj\Debug\Problem 4. Froggy.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP Advanced\Iterators and Comparators - Exercise\Problem 4. Froggy\obj\Debug\Problem_4.Froggy.exe
+E:\SoftUni\C# OOP Advanced\Iterators and Comparators - Exercise\Problem 4. Froggy\obj\Debug\Problem_4.Froggy.pdb

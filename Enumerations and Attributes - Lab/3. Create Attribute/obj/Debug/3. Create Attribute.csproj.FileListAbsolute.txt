@@ -1,0 +1,6 @@
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Lab\3. Create Attribute\bin\Debug\_3.Create_Attribute.exe.config
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Lab\3. Create Attribute\bin\Debug\_3.Create_Attribute.exe
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Lab\3. Create Attribute\bin\Debug\_3.Create_Attribute.pdb
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Lab\3. Create Attribute\obj\Debug\3. Create Attribute.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Lab\3. Create Attribute\obj\Debug\_3.Create_Attribute.exe
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Lab\3. Create Attribute\obj\Debug\_3.Create_Attribute.pdb

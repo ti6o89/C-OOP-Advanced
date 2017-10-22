@@ -1,0 +1,6 @@
+E:\SoftUni\C# OOP Advanced\Reflection - Exercise\02BlackBoxInteger\bin\Debug\02BlackBoxInteger.exe.config
+E:\SoftUni\C# OOP Advanced\Reflection - Exercise\02BlackBoxInteger\obj\Debug\02BlackBoxInteger.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP Advanced\Reflection - Exercise\02BlackBoxInteger\bin\Debug\02BlackBoxInteger.exe
+E:\SoftUni\C# OOP Advanced\Reflection - Exercise\02BlackBoxInteger\bin\Debug\02BlackBoxInteger.pdb
+E:\SoftUni\C# OOP Advanced\Reflection - Exercise\02BlackBoxInteger\obj\Debug\02BlackBoxInteger.exe
+E:\SoftUni\C# OOP Advanced\Reflection - Exercise\02BlackBoxInteger\obj\Debug\02BlackBoxInteger.pdb

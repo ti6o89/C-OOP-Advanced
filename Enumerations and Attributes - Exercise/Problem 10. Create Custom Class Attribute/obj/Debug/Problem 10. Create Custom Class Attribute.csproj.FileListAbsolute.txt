@@ -1,0 +1,6 @@
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Exercise\Problem 10. Create Custom Class Attribute\bin\Debug\Problem_10.Create_Custom_Class_Attribute.exe.config
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Exercise\Problem 10. Create Custom Class Attribute\bin\Debug\Problem_10.Create_Custom_Class_Attribute.exe
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Exercise\Problem 10. Create Custom Class Attribute\bin\Debug\Problem_10.Create_Custom_Class_Attribute.pdb
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Exercise\Problem 10. Create Custom Class Attribute\obj\Debug\Problem 10. Create Custom Class Attribute.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Exercise\Problem 10. Create Custom Class Attribute\obj\Debug\Problem_10.Create_Custom_Class_Attribute.exe
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Exercise\Problem 10. Create Custom Class Attribute\obj\Debug\Problem_10.Create_Custom_Class_Attribute.pdb

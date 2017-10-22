@@ -1,0 +1,6 @@
+E:\SoftUni\C# OOP Advanced\Lab - Generics\3. Generic Scale\bin\Debug\_3.Generic_Scale.exe.config
+E:\SoftUni\C# OOP Advanced\Lab - Generics\3. Generic Scale\bin\Debug\_3.Generic_Scale.exe
+E:\SoftUni\C# OOP Advanced\Lab - Generics\3. Generic Scale\bin\Debug\_3.Generic_Scale.pdb
+E:\SoftUni\C# OOP Advanced\Lab - Generics\3. Generic Scale\obj\Debug\_3.Generic_Scale.exe
+E:\SoftUni\C# OOP Advanced\Lab - Generics\3. Generic Scale\obj\Debug\_3.Generic_Scale.pdb
+E:\SoftUni\C# OOP Advanced\Lab - Generics\3. Generic Scale\obj\Debug\3. Generic Scale.csprojResolveAssemblyReference.cache

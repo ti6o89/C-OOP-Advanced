@@ -1,0 +1,6 @@
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Exercise\Problem 1. Card Suit\bin\Debug\Problem_1.Card_Suit.exe.config
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Exercise\Problem 1. Card Suit\bin\Debug\Problem_1.Card_Suit.exe
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Exercise\Problem 1. Card Suit\bin\Debug\Problem_1.Card_Suit.pdb
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Exercise\Problem 1. Card Suit\obj\Debug\Problem 1. Card Suit.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Exercise\Problem 1. Card Suit\obj\Debug\Problem_1.Card_Suit.exe
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Exercise\Problem 1. Card Suit\obj\Debug\Problem_1.Card_Suit.pdb

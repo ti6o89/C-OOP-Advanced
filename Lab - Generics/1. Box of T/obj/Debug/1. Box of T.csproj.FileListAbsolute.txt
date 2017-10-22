@@ -1,0 +1,6 @@
+E:\SoftUni\C# OOP Advanced\Lab - Generics\1. Box of T\bin\Debug\_1.Box_of_T.exe.config
+E:\SoftUni\C# OOP Advanced\Lab - Generics\1. Box of T\bin\Debug\_1.Box_of_T.exe
+E:\SoftUni\C# OOP Advanced\Lab - Generics\1. Box of T\bin\Debug\_1.Box_of_T.pdb
+E:\SoftUni\C# OOP Advanced\Lab - Generics\1. Box of T\obj\Debug\1. Box of T.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP Advanced\Lab - Generics\1. Box of T\obj\Debug\_1.Box_of_T.exe
+E:\SoftUni\C# OOP Advanced\Lab - Generics\1. Box of T\obj\Debug\_1.Box_of_T.pdb

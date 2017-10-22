@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 1. Card Suit", "Problem 1. Card Suit\Problem 1. Card Suit.csproj", "{B4ECD59A-477D-4024-AF26-60D212214EB4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 9. Traffic Lights", "Problem 9. Traffic Lights\Problem 9. Traffic Lights.csproj", "{3723851A-B262-4AFD-9DA4-16933519DDB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem 10. Create Custom Class Attribute", "Problem 10. Create Custom Class Attribute\Problem 10. Create Custom Class Attribute.csproj", "{49733498-2756-4F08-B979-94AC7511993D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4ECD59A-477D-4024-AF26-60D212214EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4ECD59A-477D-4024-AF26-60D212214EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4ECD59A-477D-4024-AF26-60D212214EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4ECD59A-477D-4024-AF26-60D212214EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3723851A-B262-4AFD-9DA4-16933519DDB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3723851A-B262-4AFD-9DA4-16933519DDB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3723851A-B262-4AFD-9DA4-16933519DDB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3723851A-B262-4AFD-9DA4-16933519DDB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49733498-2756-4F08-B979-94AC7511993D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49733498-2756-4F08-B979-94AC7511993D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49733498-2756-4F08-B979-94AC7511993D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49733498-2756-4F08-B979-94AC7511993D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

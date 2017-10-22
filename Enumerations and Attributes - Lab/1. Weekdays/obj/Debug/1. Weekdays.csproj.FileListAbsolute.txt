@@ -1,0 +1,6 @@
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Lab\1. Weekdays\bin\Debug\_1.Weekdays.exe.config
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Lab\1. Weekdays\bin\Debug\_1.Weekdays.exe
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Lab\1. Weekdays\bin\Debug\_1.Weekdays.pdb
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Lab\1. Weekdays\obj\Debug\1. Weekdays.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Lab\1. Weekdays\obj\Debug\_1.Weekdays.exe
+E:\SoftUni\C# OOP Advanced\Enumerations and Attributes - Lab\1. Weekdays\obj\Debug\_1.Weekdays.pdb

@@ -1,0 +1,6 @@
+E:\SoftUni\C# OOP Advanced\Iterators and Comparators - Exercise\Problem 6.  Strategy Pattern\bin\Debug\Problem_6.Strategy_Pattern.exe.config
+E:\SoftUni\C# OOP Advanced\Iterators and Comparators - Exercise\Problem 6.  Strategy Pattern\obj\Debug\Problem 6.  Strategy Pattern.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP Advanced\Iterators and Comparators - Exercise\Problem 6.  Strategy Pattern\bin\Debug\Problem_6.Strategy_Pattern.exe
+E:\SoftUni\C# OOP Advanced\Iterators and Comparators - Exercise\Problem 6.  Strategy Pattern\bin\Debug\Problem_6.Strategy_Pattern.pdb
+E:\SoftUni\C# OOP Advanced\Iterators and Comparators - Exercise\Problem 6.  Strategy Pattern\obj\Debug\Problem_6.Strategy_Pattern.exe
+E:\SoftUni\C# OOP Advanced\Iterators and Comparators - Exercise\Problem 6.  Strategy Pattern\obj\Debug\Problem_6.Strategy_Pattern.pdb

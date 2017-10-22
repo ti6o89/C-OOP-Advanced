@@ -1,0 +1,6 @@
+E:\SoftUni\C# OOP Advanced\Iterators and Comparators - Exercise\Problem 5. Comparing Objects\bin\Debug\Problem_5.Comparing_Objects.exe.config
+E:\SoftUni\C# OOP Advanced\Iterators and Comparators - Exercise\Problem 5. Comparing Objects\bin\Debug\Problem_5.Comparing_Objects.exe
+E:\SoftUni\C# OOP Advanced\Iterators and Comparators - Exercise\Problem 5. Comparing Objects\bin\Debug\Problem_5.Comparing_Objects.pdb
+E:\SoftUni\C# OOP Advanced\Iterators and Comparators - Exercise\Problem 5. Comparing Objects\obj\Debug\Problem 5. Comparing Objects.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP Advanced\Iterators and Comparators - Exercise\Problem 5. Comparing Objects\obj\Debug\Problem_5.Comparing_Objects.exe
+E:\SoftUni\C# OOP Advanced\Iterators and Comparators - Exercise\Problem 5. Comparing Objects\obj\Debug\Problem_5.Comparing_Objects.pdb

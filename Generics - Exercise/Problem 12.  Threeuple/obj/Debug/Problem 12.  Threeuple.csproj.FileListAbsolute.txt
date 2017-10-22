@@ -1,0 +1,6 @@
+E:\SoftUni\C# OOP Advanced\Generics - Exercise\Problem 12.  Threeuple\bin\Debug\Problem_12.Threeuple.exe.config
+E:\SoftUni\C# OOP Advanced\Generics - Exercise\Problem 12.  Threeuple\bin\Debug\Problem_12.Threeuple.exe
+E:\SoftUni\C# OOP Advanced\Generics - Exercise\Problem 12.  Threeuple\bin\Debug\Problem_12.Threeuple.pdb
+E:\SoftUni\C# OOP Advanced\Generics - Exercise\Problem 12.  Threeuple\obj\Debug\Problem 12.  Threeuple.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP Advanced\Generics - Exercise\Problem 12.  Threeuple\obj\Debug\Problem_12.Threeuple.exe
+E:\SoftUni\C# OOP Advanced\Generics - Exercise\Problem 12.  Threeuple\obj\Debug\Problem_12.Threeuple.pdb

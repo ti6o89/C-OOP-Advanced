@@ -1,0 +1,6 @@
+E:\SoftUni\C# OOP Advanced\Lab - Generics\2. Generic Array Creator\bin\Debug\_2.Generic_Array_Creator.exe.config
+E:\SoftUni\C# OOP Advanced\Lab - Generics\2. Generic Array Creator\bin\Debug\_2.Generic_Array_Creator.exe
+E:\SoftUni\C# OOP Advanced\Lab - Generics\2. Generic Array Creator\bin\Debug\_2.Generic_Array_Creator.pdb
+E:\SoftUni\C# OOP Advanced\Lab - Generics\2. Generic Array Creator\obj\Debug\2. Generic Array Creator.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP Advanced\Lab - Generics\2. Generic Array Creator\obj\Debug\_2.Generic_Array_Creator.exe
+E:\SoftUni\C# OOP Advanced\Lab - Generics\2. Generic Array Creator\obj\Debug\_2.Generic_Array_Creator.pdb

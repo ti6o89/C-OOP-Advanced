@@ -1,0 +1,6 @@
+E:\SoftUni\C# OOP Advanced\Generics - Exercise\Problem 1. Generic Box\bin\Debug\Problem_1.Generic_Box.exe.config
+E:\SoftUni\C# OOP Advanced\Generics - Exercise\Problem 1. Generic Box\bin\Debug\Problem_1.Generic_Box.exe
+E:\SoftUni\C# OOP Advanced\Generics - Exercise\Problem 1. Generic Box\bin\Debug\Problem_1.Generic_Box.pdb
+E:\SoftUni\C# OOP Advanced\Generics - Exercise\Problem 1. Generic Box\obj\Debug\Problem 1. Generic Box.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP Advanced\Generics - Exercise\Problem 1. Generic Box\obj\Debug\Problem_1.Generic_Box.exe
+E:\SoftUni\C# OOP Advanced\Generics - Exercise\Problem 1. Generic Box\obj\Debug\Problem_1.Generic_Box.pdb

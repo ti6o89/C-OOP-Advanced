@@ -1,0 +1,6 @@
+E:\SoftUni\C# OOP Advanced\Generics - Exercise\Problem 8. Custom List\bin\Debug\Problem_8.Custom_List.exe.config
+E:\SoftUni\C# OOP Advanced\Generics - Exercise\Problem 8. Custom List\bin\Debug\Problem_8.Custom_List.exe
+E:\SoftUni\C# OOP Advanced\Generics - Exercise\Problem 8. Custom List\bin\Debug\Problem_8.Custom_List.pdb
+E:\SoftUni\C# OOP Advanced\Generics - Exercise\Problem 8. Custom List\obj\Debug\Problem 8. Custom List.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP Advanced\Generics - Exercise\Problem 8. Custom List\obj\Debug\Problem_8.Custom_List.exe
+E:\SoftUni\C# OOP Advanced\Generics - Exercise\Problem 8. Custom List\obj\Debug\Problem_8.Custom_List.pdb

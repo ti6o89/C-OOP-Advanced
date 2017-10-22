@@ -1,0 +1,6 @@
+E:\SoftUni\C# OOP Advanced\Reflection - Exercise\01HarestingFields\bin\Debug\01HarestingFields.exe.config
+E:\SoftUni\C# OOP Advanced\Reflection - Exercise\01HarestingFields\bin\Debug\01HarestingFields.exe
+E:\SoftUni\C# OOP Advanced\Reflection - Exercise\01HarestingFields\bin\Debug\01HarestingFields.pdb
+E:\SoftUni\C# OOP Advanced\Reflection - Exercise\01HarestingFields\obj\Debug\01HarestingFields.csprojResolveAssemblyReference.cache
+E:\SoftUni\C# OOP Advanced\Reflection - Exercise\01HarestingFields\obj\Debug\01HarestingFields.exe
+E:\SoftUni\C# OOP Advanced\Reflection - Exercise\01HarestingFields\obj\Debug\01HarestingFields.pdb
